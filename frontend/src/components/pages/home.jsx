@@ -1,5 +1,5 @@
 import React from 'react'
-import Hero from '../Layout/hero'
+import Hero from '../Layout/Hero'
 import GenderCollectionSection from '../Products/GenderCollectionSection'
 import NewArrivals from '../Products/NewArrivals'
 import ProductDetails from '../Products/ProductDetails'
